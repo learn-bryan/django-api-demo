@@ -1,2 +1,2 @@
 # django-api-demo
-Simple app for managing book entries - demonstrating the Django rest framework
+Simple API for managing book entries - demonstrating the Django rest framework
